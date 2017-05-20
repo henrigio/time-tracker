@@ -13,6 +13,7 @@ import java.util.List;
  */
 @Configuration
 @ComponentScan("pro.jtaylor.timetracker.core")
+/** method test */
 public class TrackerCoreConfig {
 
     @Bean(name = "timesheet")
